@@ -28,8 +28,7 @@
 ## Languages & Frameworks & More:
 
 - DotNet & C#
-- Swift/Objective-C swift
-- Java
+- SwiftUI
 - Javascript (Web/node.js)javascript
 - Azure
 - React / Redux
