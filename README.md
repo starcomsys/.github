@@ -1,4 +1,4 @@
-- 👋 Hello everyone, we are StarCom Systems the Desert Coder
+- 👋 Hello everyone, we are StarCom Systems LLC., the Desert Coders
 - 👀 We are interested in ... creating new applications that help others, flying drones, video games, and more
 - 🌱 Currently learning ... checking out .Net Maui
 - 💞️ I’m looking to collaborate on ... building my next mobile application
